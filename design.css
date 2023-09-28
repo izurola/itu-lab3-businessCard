@@ -1,0 +1,87 @@
+h1{
+    color: white;
+    font-size: 35px;
+}
+.logo-container
+{
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-top: -90px;
+}
+.logo 
+{
+    width: 75px;
+    height: 75px;
+}
+.header-box
+{
+    width: 500px;
+    height:  125px;
+    background-color: rgb(185, 185, 185);
+}
+.content-box 
+{
+    box-sizing: content-box;
+    width: 500px;
+    height:  300px;
+    margin: 50px;
+    background-color: rgb(92, 132, 241);
+}
+.back-side
+{
+    padding-top: 75px;
+}
+.detail-box
+{
+    font-size: 20px;
+}
+.infos
+{
+    color: white;
+    height: 30px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.info-icon
+{
+    width: 20px;
+    height: 20px;
+}
+.details
+{
+    color: white;
+}
+.center 
+{
+    text-align: center;
+}
+.center 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.name
+{
+    color: white;
+    line-height: 0;
+}
+.role
+{
+    font-size: 25px;
+}
+.owner-detail
+{
+    margin-left: 80px;
+    padding-top: 25px;
+    width: 200px;
+}
+.company-name
+{
+    font-size: 35px;
+    padding-top: 0px;
+}
+ 
